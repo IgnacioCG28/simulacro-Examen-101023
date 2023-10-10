@@ -1,0 +1,30 @@
+html{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    text-align: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+
+.content{
+margin: 30px;
+}
+button{
+    color: white;
+    background-color: blue;
+    border-color: blue;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.container{
+    display: block;
+}
+
+
+
+
